@@ -4,8 +4,6 @@ abash
 cause to be embarrassed
 abate
 become less in amount or intensity
-abbreviate
-shorten
 aberrant
 markedly different from an accepted norm
 aberration
@@ -3160,8 +3158,6 @@ effusion
 an unrestrained expression of emotion
 effusive
 uttered with unrestrained enthusiasm
-ego
-an inflated feeling of pride in your superiority to others
 egoism
 concern for your own interests and welfare
 egotism
@@ -3850,8 +3846,6 @@ filing
 the entering of a legal document into the public record
 filth
 any substance considered disgustingly foul or unpleasant
-finale
-the closing section of a musical composition
 finery
 elaborate or showy attire and accessories
 finesse
@@ -5236,8 +5230,6 @@ innate
 present at birth but not necessarily hereditary
 innocuous
 not injurious to physical or mental health
-innovation
-the act of starting something for the first time
 innuendo
 an indirect and usually malicious implication
 inopportune
@@ -5584,8 +5576,6 @@ kudos
 an expression of approval and commendation
 labile
 liable to change
-laborious
-characterized by effort to the point of exhaustion
 labyrinth
 complex system of paths in which it is easy to get lost
 lace
@@ -6258,8 +6248,6 @@ missive
 a written message addressed to a person or organization
 mite
 small arachnid that infests animals, plants, or stored foods
-mitigate
-lessen or to try to lessen the seriousness or extent of
 mnemonic
 of or relating to the practice of aiding the memory
 mobile

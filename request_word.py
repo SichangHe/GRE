@@ -17,7 +17,7 @@ def read_words(path: str):
         for line in file.readlines():
             if line == "":
                 continue
-            if word == None:
+            if word is None:
                 word = line
             else:
                 words.append(WordEntry(word, line))
@@ -25,16 +25,20 @@ def read_words(path: str):
     return words
 
 
+def escape(text: str):
+    return text.replace("'", r"\'").replace('"', r"\"")
+
+
 def notify(
     body: str,
     title: str = "",
     subtitle: str = "",
 ):
-    to_run = f"""osascript -e 'display notification "{body}" """
+    to_run = f"""osascript -e 'display notification "{escape(body)}" """
     if title:
-        to_run = f"""{to_run}with title "{title}" """
+        to_run = f"""{to_run}with title "{escape(title)}" """
     if subtitle:
-        to_run = f"""{to_run}with subtitle "{subtitle}" """
+        to_run = f"""{to_run}with subtitle "{escape(subtitle)}" """
     to_run = f"{to_run}'"
     return system(to_run)
 
