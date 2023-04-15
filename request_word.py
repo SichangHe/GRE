@@ -40,7 +40,8 @@ def notify(
     if subtitle:
         to_run = f"""{to_run}with subtitle "{escape(subtitle)}" """
     to_run = f"{to_run}'"
-    return system(to_run)
+    if system(to_run) != 0:
+        print(to_run)
 
 
 def main():

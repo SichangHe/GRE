@@ -1188,8 +1188,6 @@ bowdlerize
 edit by omitting or modifying parts considered indelicate
 brackish
 slightly salty
-brag
-show off
 braggadocio
 vain and empty boasting
 braggart
@@ -1588,8 +1586,6 @@ charm
 attractiveness that interests or pleases or stimulates
 chary
 characterized by great caution
-chase
-go after with the intent to catch
 chasm
 a deep opening in the earth's surface
 chassis
@@ -1724,8 +1720,6 @@ clot
 a lump of material formed from the content of a liquid
 clout
 (boxing) a blow with the fist
-clown
-a person who amuses others by ridiculous behavior
 cloying
 overly sweet
 coadjutor
@@ -2904,8 +2898,6 @@ distill
 undergo condensation
 distinct
 constituting a separate entity or part
-distinction
-a discrimination between things as different
 distinctive
 of a feature that helps to identify a person or thing
 distort
@@ -5946,8 +5938,6 @@ manacle
 shackle that can be locked around the wrist
 mandate
 a formal statement of a command to do something
-mandatory
-required by rule
 maneuver
 a military training exercise
 mange
@@ -7556,8 +7546,6 @@ privation
 the act of stripping someone of food, money, or rights
 privy
 informed about something secret or not generally known
-prize
-something given for victory or superiority in a contest or competition or for winning a lottery
 probe
 an exploratory action or expedition
 probity
@@ -8416,8 +8404,6 @@ rig
 equip with sails or masts
 righteous
 morally justified
-rightful
-legally valid
 rigid
 incapable of or resistant to bending
 rigor
