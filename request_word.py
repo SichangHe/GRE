@@ -15,6 +15,7 @@ def read_words(path: str):
     word: str | None = None
     with open(path, "r") as file:
         for line in file.readlines():
+            line = line.strip()
             if line == "":
                 continue
             if word is None:
@@ -26,7 +27,7 @@ def read_words(path: str):
 
 
 def escape(text: str):
-    return text.replace("'", r"\'").replace('"', r"\"")
+    return text.replace("'", "`").replace('"', "``")
 
 
 def notify(

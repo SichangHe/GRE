@@ -2808,8 +2808,6 @@ dishearten
 take away the enthusiasm of
 disheveled
 in disarray; extremely disorderly
-dishonor
-a state of shame or disgrace
 disinclination
 a certain degree of unwillingness
 disingenuous
@@ -4888,8 +4886,6 @@ implement
 a piece of equipment or a tool used for a specific purpose
 implicate
 bring into intimate and incriminating connection
-implication
-something that is inferred
 implicit
 suggested though not directly expressed
 implode
@@ -5144,8 +5140,6 @@ inerrancy
 exemption from mistakes
 inert
 unable to move or resist motion
-inertia
-the tendency of something to stay in rest or motion
 inestimable
 beyond calculation or measure
 inevitability
@@ -6380,10 +6374,6 @@ muster
 summon up, call forth, or bring together
 musty
 covered with or smelling of mold
-mutability
-the quality of being capable of change
-mutable
-capable of or tending to change in form or quality or nature
 mutilate
 destroy or injure severely
 mutinous
@@ -6948,10 +6938,6 @@ pass off
 cause to be circulated and accepted in a false character or identity
 passe
 out of fashion
-passive
-lacking in energy or will
-paste
-an adhesive made from water and flour or starch
 pastiche
 a work of art that imitates the style of some previous work
 pastoral
@@ -7550,8 +7536,6 @@ probe
 an exploratory action or expedition
 probity
 complete and confirmed integrity
-problematic
-making great mental demands
 proboscis
 a long flexible snout as of an elephant
 proclivity
@@ -7940,8 +7924,6 @@ rankle
 make resentful or angry
 ransack
 search thoroughly
-rant
-talk at length in a noisy, excited, or angry manner
 rapacious
 living by preying on other animals
 rapport
