@@ -150,8 +150,6 @@ addendum
 textual matter that is appended to the end of a publication
 addle
 mix up or confuse
-address
-the place where a person or organization can be found
 adduce
 advance evidence for
 adept
@@ -2243,8 +2241,6 @@ someone who is critical of the motives of others
 cynical
 believing the worst of human nature and motives
 cynicism
-a pessimistic feeling of distrust
-cynosure
 something that provides guidance
 dabble
 bob under so as to feed off the bottom of a body of water
@@ -2254,8 +2250,6 @@ dais
 a platform raised above the surrounding level
 dally
 behave carelessly or indifferently
-damn
-something of little value
 dank
 unpleasantly cool and humid
 dapper
@@ -2498,8 +2492,6 @@ derision
 the act of treating with contempt
 derivation
 the source or origin from which something comes
-derivative
-a compound obtained from another compound
 dermatologist
 a doctor who specializes in the physiology of the skin
 derogatory
@@ -3260,8 +3252,6 @@ equanimity
 steadiness of mind under stress
 equestrian
 of or relating to or featuring horseback riding
-equilibrium
-a stable situation in which forces cancel one another
 equine
 relating to or resembling a horse
 equinox
@@ -3548,8 +3538,6 @@ fallible
 wanting in moral strength, courage, or will
 fallow
 left unplowed and unseeded during a growing season
-falsify
-make false by mutilation or addition
 falter
 move hesitatingly, as if about to give way
 fanaticism
@@ -3884,8 +3872,6 @@ freshet
 the occurrence of a water flow resulting from sudden rain or melting snow
 fret
 be agitated or irritated
-friction
-the resistance when a body is moved in contact with another
 frieze
 an ornament consisting of a horizontal sculptured band
 frigid
@@ -5984,8 +5970,6 @@ misogamy
 hatred of marriage
 misogynist
 a misanthrope who dislikes women in particular
-missile
-a weapon that is forcibly thrown or projected at a target
 missive
 a written message addressed to a person or organization
 mite
@@ -8720,8 +8704,6 @@ specious
 plausible but false
 spectral
 resembling or characteristic of a phantom
-speechless
-temporarily incapable of speaking
 spendthrift
 someone who spends money freely or wastefully
 spin
@@ -9112,8 +9094,6 @@ theosophy
 a system of belief based on mystical insight into the nature of God and the soul
 therapeutic
 tending to cure or restore to health
-thermal
-relating to or associated with heat
 thrall
 the state of being under the control of another person
 threnody

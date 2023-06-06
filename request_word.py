@@ -1,6 +1,7 @@
 from dataclasses import dataclass
 from os import system
 from random import choice
+from sys import argv
 from time import sleep
 
 
@@ -62,12 +63,21 @@ def select_words(words: dict[str, str]):
     return select_from
 
 
+def open_dict(word: str):
+    to_run = f"""osascript -e 'open location "dict://{word}"'"""
+    if system(to_run) != 0:
+        print(to_run)
+
+
 def main():
+    open = any(arg == "--open" for arg in argv)
     words = read_words("word_list.txt")
     words = select_words(words)
     while 1:
         word = choice(words)
         notify(word.meaning, word.word)
+        if open:
+            open_dict(word.word)
         sleep(5 * 60)
 
 
