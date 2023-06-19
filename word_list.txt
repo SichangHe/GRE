@@ -62,8 +62,6 @@ abstract
 existing only in the mind
 abstruse
 difficult to understand
-abusive
-characterized by physical or psychological maltreatment
 abut
 lie adjacent to another or share a boundary
 abysmal
@@ -206,8 +204,6 @@ advert
 a public promotion of some product or service
 advocacy
 active support of an idea or cause
-advocate
-a person who pleads for a person, cause, or idea
 aegis
 armor plate that protects the chest
 aeon
@@ -240,8 +236,6 @@ affray
 a noisy fight
 affront
 a deliberately offensive act
-afterlife
-life after death
 agape
 with the mouth wide open as in wonder or awe
 agenda
@@ -258,8 +252,6 @@ agitate
 move or cause to move back and forth
 agitation
 a mental state of extreme emotional disturbance
-agnostic
-a person who claims the existence of God is unknowable
 agog
 highly excited
 agrarian
@@ -400,8 +392,6 @@ analogy
 drawing a comparison in order to show a similarity
 anarchist
 an advocate of the abolition of governments
-anarchy
-a state of lawlessness and disorder
 anathema
 a formal ecclesiastical curse accompanied by excommunication
 ancestry
@@ -692,8 +682,6 @@ assimilate
 make alike
 assuage
 provide physical relief, as from pain
-assumption
-the act of taking something for granted
 assurance
 a binding commitment to do or give or refrain from something
 asteroid
@@ -814,10 +802,6 @@ avow
 declare or affirm solemnly and formally as true
 avuncular
 being or relating to an uncle
-awe
-an overwhelming feeling of wonder or admiration
-awful
-exceptionally bad or displeasing
 awl
 a pointed tool for marking surfaces or for punching holes
 awry
@@ -952,8 +936,6 @@ benefactor
 a person who helps people or institutions
 beneficent
 doing or producing good
-beneficial
-promoting or enhancing well-being
 beneficiary
 the recipient of funds or other advantages
 benevolent
@@ -998,8 +980,6 @@ betray
 deliver to an enemy by treachery
 betroth
 give to in marriage
-bevy
-a flock of birds
 bewitch
 cast a spell over someone or something
 bicameral
@@ -1076,8 +1056,6 @@ blowhard
 a very boastful and talkative person
 bludgeon
 a club used as a weapon
-blue
-of the color intermediate between green and violet
 blues
 a state of depression
 bluff
@@ -1362,8 +1340,6 @@ cardiologist
 a specialist in the structure and function of the heart
 careen
 move at high speed and in an uncontrolled way
-career
-the particular occupation for which you are trained
 carefree
 without trouble or worry
 caricature
@@ -1538,8 +1514,6 @@ chattel
 personal property, as opposed to real estate
 chauvinist
 a person with a prejudiced belief in his own superiority
-check
-examine to determine accuracy or quality
 checkered
 patterned with alternating squares of color
 chequered
@@ -1708,12 +1682,6 @@ cohort
 a band of warriors
 coiffure
 the arrangement of the hair
-coin
-a flat metal piece (usually a disc) used as money
-coincidence
-the property of two things happening at the same time
-coincident
-occurring or operating at the same time
 colander
 bowl-shaped strainer used to wash or drain foods
 collaborate
@@ -1776,16 +1744,12 @@ communal
 for or by a group rather than individuals
 commune
 share or interact intimately with
-compact
-closely and firmly united or packed together
 compartment
 a partitioned section within a larger enclosed area
 compassion
 a deep awareness of and sympathy for another's suffering
 compatible
 able to exist and perform in harmonious combination
-compelling
-capable of arousing and holding the attention
 compendium
 a publication containing a variety of works
 compensated
@@ -2142,8 +2106,6 @@ craven
 lacking even the rudiments of courage; abjectly fearful
 credence
 the mental attitude that something is believable
-credential
-a document attesting to the truth of certain stated facts
 credo
 any system of principles or beliefs
 credulity
@@ -2384,8 +2346,6 @@ deify
 exalt to the position of a God
 deign
 do something that one considers to be below one's dignity
-delete
-cut or eliminate
 deleterious
 harmful to living things
 deliberate
@@ -2532,8 +2492,6 @@ desuetude
 a state of inactivity or disuse
 desultory
 marked by lack of definite plan, purpose, or enthusiasm
-detached
-no longer connected or joined
 detain
 cause to be slowed down or delayed
 detergent
@@ -2586,8 +2544,6 @@ dictum
 an authoritative declaration
 didactic
 instructive, especially excessively
-die
-lose all bodily functions necessary to sustain life
 diffidence
 lack of self-assurance
 diffuse
@@ -2786,8 +2742,6 @@ dissuasion
 a communication that dissuades you
 distaff
 a stick on which wool or flax is wound before spinning
-distant
-separated in space or coming from far away
 distend
 cause to expand as if by internal pressure
 distill
@@ -3160,8 +3114,6 @@ engross
 devote fully to
 engulf
 flow over or cover completely
-enhance
-increase
 enigma
 something that baffles understanding and cannot be explained
 enigmatic
@@ -3194,8 +3146,6 @@ enthrall
 hold spellbound
 entice
 provoke someone to do something through persuasion
-entity
-that which is perceived to have its own distinct existence
 entomology
 the branch of zoology that studies insects
 entourage
@@ -3484,8 +3434,6 @@ extrapolation
 an inference about the future based on known facts
 extricate
 release from entanglement or difficulty
-extrinsic
-not forming an essential part of a thing
 extrovert
 a person directed toward others as opposed to the self
 extrude
@@ -3744,14 +3692,10 @@ flourish
 grow vigorously
 flout
 treat with contemptuous disregard
-flowery
-of or relating to or suggestive of blossoms
 fluctuate
 move or sway in a rising and falling or wavelike pattern
 fluctuation
 an instance of change
-fluency
-powerful and effective language
 fluke
 a stroke of luck
 flush
@@ -4278,8 +4222,6 @@ halting
 proceeding in a fragmentary, hesitant, or ineffective way
 hamper
 prevent the progress or free movement of
-handsome
-pleasing in appearance
 hap
 come to pass
 haphazard
@@ -4322,8 +4264,6 @@ hawser
 large heavy rope for nautical use
 hazard
 an unpredictable phenomenon that causes a certain result
-hazardous
-involving risk or danger
 hazy
 filled or abounding with fog or mist
 headfirst
@@ -4528,8 +4468,6 @@ hypocritical
 professing feelings or virtues one does not have
 hypothecate
 pledge without delivery or title of possession
-hypothetical
-a conjectural possibility or circumstance
 hysteria
 state of violent mental agitation
 ichthyology
@@ -5122,8 +5060,6 @@ intrepid
 invulnerable to fear or intimidation
 intrigue
 a crafty and involved plot to achieve your ends
-intrinsic
-belonging to a thing by its very nature
 introspective
 given to examining own sensory and perceptual experiences
 introvert
@@ -5340,8 +5276,6 @@ lackluster
 not having brilliance or vitality
 laconic
 brief and to the point
-lag
-hang or fall in movement, progress, development, etc.
 laggard
 someone who takes more time than necessary
 lagniappe
@@ -5496,8 +5430,6 @@ lineament
 the characteristic parts of a person's face
 linger
 remain present although waning or gradually dying
-linguistic
-consisting of or related to language
 lionize
 assign great social importance to
 liquidate
@@ -5674,8 +5606,6 @@ malleable
 capable of being shaped or bent
 malodorous
 having an unpleasant smell
-mammal
-a warm-blooded vertebrate having the skin covered with hair
 mammoth
 extinct elephant widely distributed in the Pleistocene
 manacle
@@ -5706,7 +5636,7 @@ mannered
 having unnatural behavioral attributes
 mannerism
 a behavioral attribute that is distinctive to an individual
-manoeuver
+maneuver
 act in order to achieve a certain goal
 mantle
 a sleeveless garment like a cloak but shorter
@@ -5872,8 +5802,6 @@ mete
 a line that indicates a boundary
 meteoric
 of extraterrestrial bodies that hit the earth's atmosphere
-meter
-a basic unit of length (approximately 1.094 yards)
 methodical
 characterized by orderliness
 meticulous
@@ -5994,8 +5922,6 @@ mogul
 a very wealthy or powerful businessperson
 moiety
 one of two approximately equal parts
-molecule
-the simplest structural unit of an element or compound
 mollify
 cause to be more favorably inclined
 mollycoddle
@@ -6224,8 +6150,6 @@ nonentity
 a person of no influence
 nonplus
 be a mystery or bewildering to
-nonsense
-a message that seems to convey no meaning
 noose
 a loop formed in a cord or rope by means of a slipknot
 nosegay
@@ -6234,8 +6158,6 @@ nostalgia
 a longing for something past
 nostrum
 patent medicine whose efficacy is questionable
-notable
-worthy of attention or interest
 notation
 a comment or instruction (usually added)
 notch
@@ -6268,8 +6190,6 @@ numismatist
 a collector and student of money, especially coins
 nuptial
 of or relating to a wedding
-nurse
-one skilled in caring for young children or the sick
 nurture
 provide with nourishment
 nutrient
@@ -7026,8 +6946,6 @@ poignant
 keenly distressing to the mind or feelings
 poise
 hold or carry in equilibrium
-polar
-of or existing within the Arctic or Antarctic Circles
 polarity
 a relation between two opposite attributes or tendencies
 polarize
@@ -7060,8 +6978,6 @@ porous
 full of holes
 porphyry
 any igneous rock with crystals embedded in a finer groundmass of minerals
-porridge
-soft food made by boiling meal or legumes in water or milk
 portend
 indicate by signs
 portent
@@ -7130,8 +7046,6 @@ precipitous
 extremely steep
 precis
 a sketchy summary of the main points of an argument
-precise
-sharply exact or accurate or delimited
 preclude
 make impossible, especially beforehand
 precocious
@@ -7164,8 +7078,6 @@ prehensile
 adapted for grasping especially by wrapping around an object
 prelate
 a senior clergyman and dignitary
-prelude
-something that introduces what follows
 premeditate
 consider, ponder, or plan beforehand
 premise
@@ -7344,10 +7256,6 @@ prosody
 the study of poetic meter and the art of versification
 prosper
 make steady progress
-prosperity
-the condition of having good fortune
-prosperous
-in fortunate circumstances financially
 prostrate
 stretched out and lying at full length along the ground
 protagonist
@@ -7506,10 +7414,6 @@ quail
 a small game bird
 quaint
 attractively old-fashioned
-qualified
-meeting the proper standards and requirements for a task
-qualify
-prove capable or fit; meet requirements
 qualm
 uneasiness about the fitness of an action
 qualm
@@ -7608,10 +7512,6 @@ rancor
 a feeling of deep and bitter anger and ill-will
 rancorous
 showing deep-seated resentment
-random
-lacking any definite plan or order or purpose
-rank
-relative status
 rankle
 make resentful or angry
 ransack
@@ -7642,8 +7542,6 @@ ration
 a fixed portion that is allotted
 rationalization
 the process of making something seem consistent with reason
-rationalize
-employ logic or reason
 raucous
 unpleasantly loud and harsh
 ravage
@@ -7932,8 +7830,6 @@ rescission
 the cancellation of a contract
 resentment
 a feeling of deep and bitter anger and ill-will
-reserve
-hold back or set aside, especially for future use
 residual
 relating to or indicating a remainder
 residue
@@ -7962,8 +7858,6 @@ respite
 a pause from doing something
 resplendent
 having great beauty
-responsiveness
-the quality of reacting quickly
 restitution
 the act of restoring something to its original state
 restive
@@ -8054,8 +7948,6 @@ rig
 equip with sails or masts
 righteous
 morally justified
-rigid
-incapable of or resistant to bending
 rigor
 excessive sternness
 rile
@@ -8086,8 +7978,6 @@ romp
 play boisterously
 rood
 representation of the cross on which Jesus died
-rooster
-adult male chicken
 roseate
 of something having a dusty purplish pink color
 roster
@@ -8990,10 +8880,6 @@ syllogism
 reasoning in which a conclusion is derived from two premises
 sylvan
 relating to or characteristic of wooded regions
-symmetry
-balance among the parts of something
-synchronous
-occurring or existing at the same time
 synthesis
 the combination of ideas into a complex whole
 synthetic
@@ -9160,8 +9046,6 @@ tractable
 easily managed
 traduce
 speak unfavorably about
-trajectory
-the path followed by an object moving through space
 tranquillity
 an untroubled state, free from disturbances
 transcend

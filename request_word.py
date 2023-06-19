@@ -69,16 +69,24 @@ def open_dict(word: str):
         print(to_run)
 
 
+def get_delay(argv):
+    for arg in argv:
+        if arg.startswith("--delay="):
+            return int(arg.split("=")[1])
+    return 5 * 60
+
+
 def main():
     open = any(arg == "--open" for arg in argv)
     words = read_words("word_list.txt")
     words = select_words(words)
+    delay = get_delay(argv)
     while 1:
         word = choice(words)
         notify(word.meaning, word.word)
         if open:
             open_dict(word.word)
-        sleep(5 * 60)
+        sleep(delay)
 
 
 main() if __name__ == "__main__" else None
