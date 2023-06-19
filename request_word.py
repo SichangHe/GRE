@@ -89,4 +89,7 @@ def main():
         sleep(delay)
 
 
-main() if __name__ == "__main__" else None
+try:
+    main() if __name__ == "__main__" else None
+except KeyboardInterrupt:
+    print()
