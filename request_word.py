@@ -53,10 +53,10 @@ def depend_on_other(meaning: str, words: dict[str, str]):
     return False
 
 
-def select_words(words: dict[str, str]):
+def select_words(words: dict[str, str], no_dep=True):
     select_from: list[WordEntry] = []
     for word, meaning in words.items():
-        if depend_on_other(meaning, words):
+        if no_dep and depend_on_other(meaning, words):
             continue
         select_from.append(WordEntry(word, meaning))
     print(f"Selecting among {len(select_from)} words from {len(words)}.")
@@ -78,8 +78,9 @@ def get_delay(argv):
 
 def main():
     open = any(arg == "--open" for arg in argv)
+    no_dep = any(arg == "--no-dep" for arg in argv)
     words = read_words("word_list.txt")
-    words = select_words(words)
+    words = select_words(words, no_dep)
     delay = get_delay(argv)
     while 1:
         word = choice(words)

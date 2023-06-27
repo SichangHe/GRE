@@ -376,10 +376,6 @@ analgesic
 capable of relieving pain
 analogous
 similar or equivalent in some respects
-analogy
-drawing a comparison in order to show a similarity
-anarchist
-an advocate of the abolition of governments
 anathema
 a formal ecclesiastical curse accompanied by excommunication
 ancestry
@@ -828,16 +824,12 @@ bard
 a lyric poet
 barefaced
 with no effort to conceal
-bargain
-an agreement between parties fixing obligations of each
 baroque
 relating to an elaborately ornamented style of art and music
 barrage
 the heavy fire of artillery to saturate an area
 barrister
 a British lawyer who speaks in the higher courts of law
-barterer
-a trader who exchanges goods and not money
 bask
 expose oneself to warmth and light, as for relaxation
 bassoon
@@ -950,8 +942,6 @@ bicameral
 consisting of two chambers
 bicker
 argue over petty things
-bid
-propose a payment
 biennial
 occurring every second year
 bifurcated
@@ -1780,8 +1770,6 @@ confidante
 a woman or girl to whom secrets can be entrusted
 confide
 reveal in private
-confidence
-belief in yourself and your abilities
 confidential
 given in secret
 confine
@@ -2438,8 +2426,6 @@ didactic
 instructive, especially excessively
 diffidence
 lack of self-assurance
-diffuse
-spread out; not concentrated in one place
 dignitary
 an important or influential person
 digression
@@ -2564,8 +2550,6 @@ dislodge
 remove or force from a position previously occupied
 dismantle
 take off or remove
-dismember
-separate the limbs from the body
 dismiss
 stop associating with
 disparage
@@ -2590,8 +2574,6 @@ dispirited
 showing no enthusiasm
 disport
 occupy in an agreeable, entertaining or pleasant fashion
-disproportion
-imbalance among the parts of something
 disputatious
 showing an inclination to disagree
 disquietude
@@ -3022,8 +3004,6 @@ entrance
 something that provides access to get in
 entreat
 ask for or request earnestly
-entree
-the principal dish of a meal
 entrepreneur
 someone who organizes a business venture
 enumerate
@@ -3370,8 +3350,6 @@ fastidious
 giving careful attention to detail
 fatalism
 a doctrine that all events are predetermined in advance
-fatherless
-having no living male parent
 fathom
 a linear unit of measurement for water depth
 fatuous
@@ -3616,8 +3594,6 @@ forgo
 do without or cease to hold or adhere to
 forlorn
 marked by or showing hopelessness
-formality
-a requirement of etiquette or custom
 formidable
 extremely impressive in strength or excellence
 forsake
@@ -3634,8 +3610,6 @@ fortitude
 strength of mind that enables one to endure adversity
 fortuitous
 lucky; occurring by happy chance
-forum
-a public facility to meet for open discussion
 foster
 providing nurture though not related by blood or legal ties
 foul
@@ -3872,8 +3846,6 @@ gingerly
 in a manner marked by extreme care or delicacy
 girth
 the distance around something, especially a person's body
-glacial
-relating to or derived from a slowly moving mass of ice
 glamor
 alluring beauty or charm (often with sex-appeal)
 glare
@@ -4018,8 +3990,6 @@ gruff
 blunt and unfriendly or stern
 grumble
 make complaining remarks or noises under one's breath
-grunt
-issue a low, animal-like noise
 guffaw
 a burst of loud and hearty laughter
 guile
@@ -4326,8 +4296,6 @@ ignominious
 deserving or bringing disgrace or shame
 ignominy
 a state of dishonor
-ikon
-a visual representation produced on a surface
 illicit
 contrary to accepted morality or convention
 illimitable
@@ -4338,8 +4306,6 @@ illusive
 based on or having the nature of a fantasy
 illusory
 having the nature of something unreal or deceptive
-imbalance
-a lack of stability, evenness, or equilibrium
 imbecility
 mental retardation
 imbed
@@ -4360,8 +4326,6 @@ immobility
 the quality of not moving
 immolate
 kill as a sacrifice, especially by fire
-immune
-of the condition in which an organism can resist disease
 immure
 lock up or confine, in or as in a jail
 impair
@@ -4694,8 +4658,6 @@ infinitesimal
 immeasurably small
 infirmity
 the state of being weak in health or body
-inflated
-enlarged beyond truth or reasonableness
 influx
 the process of flowing in
 infraction
@@ -4806,8 +4768,6 @@ intangible
 incapable of being perceived by the senses, especially touch
 integral
 existing as an essential constituent or characteristic
-integrity
-an undivided or unbroken completeness with nothing wanting
 integument
 an outer protective covering
 intellect
@@ -4864,8 +4824,6 @@ intransigent
 impervious to pleas, persuasion, requests, or reason
 intrepid
 invulnerable to fear or intimidation
-intrigue
-a crafty and involved plot to achieve your ends
 introspective
 given to examining own sensory and perceptual experiences
 introvert
@@ -5032,8 +4990,6 @@ kindle
 catch fire
 kindred
 group of people related by blood or marriage
-kinetic
-relating to the motion of material bodies and their forces
 kiosk
 small area set off by walls for special use
 kismet
@@ -5098,8 +5054,6 @@ lampoon
 ridicule with satire
 lance
 a long pointed rod used as a weapon
-lancet
-a surgical knife with a pointed double-edged blade
 languid
 lacking spirit or liveliness
 languish
@@ -5182,8 +5136,6 @@ levitate
 cause to rise in the air and float
 levity
 a manner lacking seriousness
-levy
-impose and collect
 lewd
 suggestive of or tending to moral looseness
 lexicographer
@@ -5862,8 +5814,6 @@ navigable
 able to be sailed on or through safely
 neap
 a less than average tide occurring at the first and third quarters of the moon
-nebula
-an immense cloud of gas and dust in interstellar space
 nebulous
 lacking definite form or limits
 necrology
@@ -5936,28 +5886,18 @@ nostalgia
 a longing for something past
 nostrum
 patent medicine whose efficacy is questionable
-notation
-a comment or instruction (usually added)
 notch
 a small cut
 notoriety
 the state of being known for some unfavorable act or quality
-notorious
-known widely and usually unfavorably
 nourish
 provide with sustenance
 nourishment
 the act of providing with food or nutrients
 nova
 a star that ejects some of its material in the form of a cloud and become more luminous in the process
-novelty
-originality by virtue of being refreshingly new
-novice
-someone new to a field or activity
 noxious
 injurious to physical or mental health
-nuance
-a subtle difference in meaning or opinion or attitude
 nubile
 (of young women) attractive and eligible to marry
 nugatory
@@ -6054,8 +5994,6 @@ odoriferous
 emitting a smell, especially an unpleasant smell
 odorous
 having a characteristic aroma
-odyssey
-a long wandering and eventful journey
 offal
 viscera and trimmings of a butchered animal
 offertory
@@ -6104,10 +6042,6 @@ optician
 a worker who makes glasses for remedying defects of vision
 optimist
 a person disposed to take a favorable view of things
-optimum
-most desirable possible under a restriction
-optional
-possible but not necessary; left to personal choice
 optometrist
 a person skilled in testing for defects of vision
 opulence
@@ -6128,8 +6062,6 @@ ordinance
 an authoritative rule
 ordination
 the act of conferring holy orders
-orgy
-a wild gathering
 orient
 the eastern hemisphere
 orientation
@@ -6762,8 +6694,6 @@ postprandial
 following a meal, especially dinner
 postulate
 maintain or assert
-posture
-the arrangement of the body and its limbs
 potable
 suitable for drinking
 potent
@@ -7154,10 +7084,6 @@ putrescent
 in a state of decay or decomposition
 putrid
 of or relating to the process of decay
-puzzle
-be uncertain about
-pyromaniac
-a person with a mania for setting things on fire
 quack
 the sound made by a duck
 quadruped
@@ -7412,8 +7338,6 @@ regale
 occupy in an agreeable, entertaining or pleasant fashion
 regatta
 a series of boat races
-regeneration
-the act of forming again; renewing and reconstituting
 regent
 someone who rules during the absence of the monarch
 regicide
@@ -8124,8 +8048,6 @@ skeptic
 someone who habitually doubts accepted beliefs
 skiff
 a small boat propelled by oars or by sails or by a motor
-skim
-remove from the surface
 skimp
 work hastily or carelessly
 skinflint
@@ -8186,14 +8108,10 @@ slovenly
 negligent of neatness especially in dress and person
 sluggard
 an idle slothful person
-sluggish
-moving slowly
 sluice
 conduit that carries a rapid flow of water
 smattering
 a slight or superficial understanding of a subject
-smelt
-extract by heating, as a metal
 smirk
 smile in a mocking or condescending way
 smolder
@@ -8204,8 +8122,6 @@ smudge
 make a smear on or soil by smearing
 smug
 marked by excessive complacency or self-satisfaction
-sneak
-to go stealthily or furtively
 snicker
 laugh quietly
 snip
@@ -8214,8 +8130,6 @@ snivel
 cry or whine with snuffling
 snub
 refuse to acknowledge
-sober
-not affected by a chemical substance, especially alcohol
 sobriety
 the state of being unaffected or not intoxicated by alcohol
 sobriquet
@@ -9166,3 +9080,23 @@ sediment
 matter that settles to the bottom of a liquid; dregs
 baseness
 lack of moral principles; bad character
+obtuse angle
+angle with measure between 90° and 180°
+quadrilateral
+4-sided polygon
+equilateral triangle
+regular triangle
+isosceles triangle
+triangle with two congruent sides
+hypotenuse
+the side opposite to the right angle in a right triangle
+leg
+non-hypotenuse side of a right triangle
+parallelogram
+quadrilateral with two pairs of parallel sides
+trapezoid
+quadrilateral with one pair of parallel sides
+circumference
+parameter of a circle
+concentric circles
+circles sharing the same center
