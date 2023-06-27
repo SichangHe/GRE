@@ -69,6 +69,12 @@ def open_dict(word: str):
         print(to_run)
 
 
+def open_voca(word: str):
+    to_run = f"""osascript -e 'open location "https://www.vocabulary.com/dictionary/{word}"'"""
+    if system(to_run) != 0:
+        print(to_run)
+
+
 def get_delay(argv):
     for arg in argv:
         if arg.startswith("--delay="):
@@ -78,6 +84,7 @@ def get_delay(argv):
 
 def main():
     open = any(arg == "--open" for arg in argv)
+    open_v = any(arg == "--open-voca" for arg in argv)
     no_dep = any(arg == "--no-dep" for arg in argv)
     words = read_words("word_list.txt")
     words = select_words(words, no_dep)
@@ -85,6 +92,8 @@ def main():
     while 1:
         word = choice(words)
         notify(word.meaning, word.word)
+        if open_v:
+            open_voca(word.word)
         if open:
             open_dict(word.word)
         sleep(delay)

@@ -68,8 +68,6 @@ abyss
 a bottomless gulf or pit
 accede
 yield to another's wish or opinion
-accelerate
-move faster
 accessory
 a supplementary component that improves capability
 acclaim
@@ -600,8 +598,6 @@ artery
 a blood vessel that carries blood from the heart to the body
 artful
 not straightforward or candid
-articulate
-express or state clearly
 artifact
 a man-made object
 artifice
@@ -1310,10 +1306,6 @@ castigation
 verbal punishment
 castrate
 remove the testicles of a male animal
-casual
-without or seeming to be without plan or method; offhand
-casualty
-someone injured or killed in an accident
 casuistry
 argumentation that is specious or excessively subtle
 cataclysm
@@ -1690,8 +1682,6 @@ complementary
 serving to fill out, enhance, or supply what is lacking
 compliance
 the act of submitting, usually surrendering power to another
-compliant
-disposed to act in accordance with someone's wishes
 complicity
 guilt as a confederate in a crime or offense
 component
@@ -1770,8 +1760,6 @@ confidante
 a woman or girl to whom secrets can be entrusted
 confide
 reveal in private
-confidential
-given in secret
 confine
 place limits on
 confiscate
@@ -3172,12 +3160,6 @@ execrable
 unequivocally detestable
 execrate
 curse or declare to be evil or anathema
-execute
-put in effect
-executioner
-an official who inflicts capital punishment
-executor
-a person appointed to carry out the terms of the will
 exegesis
 an explanation or critical interpretation
 exemplary
@@ -3340,8 +3322,6 @@ fanciful
 indulging in or influenced by the imagination
 fanfare
 a short lively tune played on brass instruments
-fantastic
-extravagantly fanciful in design, construction, appearance
 farce
 a comedy characterized by broad satire
 farfetched
@@ -3680,8 +3660,6 @@ frustrate
 hinder or prevent, as an effort, plan, or desire
 fuddle
 a confused jumble
-fugitive
-someone who is sought by law officers
 fulcrum
 the pivot about which a lever turns
 fulgent
@@ -3830,8 +3808,6 @@ ghastly
 shockingly repellent; inspiring horror
 gibber
 speak (about unimportant matters) rapidly and incessantly
-gibberish
-unintelligible talking
 gibbet
 an instrument of public execution
 gibe
@@ -4050,8 +4026,6 @@ harangue
 a loud bombastic declamation expressed with strong emotion
 harbinger
 something indicating the approach of something or someone
-harbor
-a sheltered port where ships can take on or discharge cargo
 hardy
 having rugged physical strength
 harp
@@ -4464,8 +4438,6 @@ inane
 devoid of intelligence
 inanimate
 not endowed with life
-inarticulate
-without or deprived of the use of speech or words
 inaugurate
 commence officially
 incandescent
@@ -4508,8 +4480,6 @@ inclement
 severe, of weather
 inclined
 at an angle to the horizontal or vertical position
-inclusive
-encompassing much or everything
 incognito
 without revealing one's identity
 incoherent
@@ -5214,10 +5184,6 @@ loft
 a large unpartitioned space over a commercial space
 lofty
 of imposing height; especially standing out above others
-log
-a segment of the trunk of a tree when stripped of branches
-logical
-based on known statements or events or conditions
 loll
 be lazy or idle
 longevity
@@ -5556,10 +5522,6 @@ microcosm
 a miniature model of something
 mien
 a person's appearance, manner, or demeanor
-migrant
-traveler who moves from one region or country to another
-migratory
-(of animals) moving seasonally
 milieu
 the environmental condition
 militant
@@ -5568,8 +5530,6 @@ militate
 have force or influence; bring about an effect or change
 militia
 civilians trained as soldiers, not part of the regular army
-millennium
-a span of 1000 years
 mime
 an actor who communicates entirely by gesture
 mimicry
@@ -5732,8 +5692,6 @@ motley
 consisting of a haphazard assortment of different kinds
 mottled
 having spots or patches of color
-motto
-a favorite saying of a sect or political group
 mountebank
 a flamboyant deceiver
 muddle
@@ -5762,8 +5720,6 @@ murkiness
 an atmosphere in which visibility is reduced because of a cloud of some substance
 murky
 cloudy, dirty, and difficult to see through
-murmur
-a low continuous indistinct sound
 murrain
 any disease of domestic animals that resembles a plague
 muse
@@ -7084,8 +7040,6 @@ putrescent
 in a state of decay or decomposition
 putrid
 of or relating to the process of decay
-quack
-the sound made by a duck
 quadruped
 an animal especially a mammal having four limbs
 quaff
@@ -7852,12 +7806,8 @@ seamy
 morally degraded
 sear
 become superficially burned (also figurative)
-season
-one of the natural periods into which the year is divided by the equinoxes and solstices or atmospheric conditions
 seasonable
 in keeping with the season
-seasonal
-occurring at or dependent on a particular season
 sebaceous
 containing an unusual amount of grease or oil
 secession
@@ -8186,8 +8136,6 @@ soporific
 inducing sleep
 sordid
 foul and run-down and repulsive
-sound
-mechanical vibrations transmitted by an elastic medium
 soupcon
 a slight but appreciable amount
 sour
@@ -9100,3 +9048,5 @@ circumference
 parameter of a circle
 concentric circles
 circles sharing the same center
+fortify
+provide defensive work as protection against attack
