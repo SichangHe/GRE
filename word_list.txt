@@ -170,8 +170,6 @@ admonish
 scold or reprimand; take to task
 admonition
 a firm rebuke
-adore
-love intensely
 adorn
 make more attractive, as by adding ornament or color
 adroit
@@ -486,8 +484,6 @@ apocryphal
 being of questionable authenticity
 apogee
 the farthest point in an orbit around the Earth
-apolitical
-neutral with regards to government policy
 apologist
 a person who argues to defend some policy or institution
 apologue
@@ -538,8 +534,6 @@ arable
 capable of being farmed productively
 arbiter
 someone chosen to judge and decide a disputed issue
-arbitrary
-based on or subject to individual discretion or preference
 arbitrate
 act between parties with a view to reconciling differences
 arboreal
@@ -842,8 +836,6 @@ bauble
 cheap showy jewelry or ornament
 bawdy
 humorously vulgar
-bearing
-characteristic way of holding one's body
 beatific
 resembling or befitting an angel or saint
 beatitude
@@ -1738,8 +1730,6 @@ concordat
 a signed written agreement between two or more parties
 concur
 happen simultaneously
-concurrent
-occurring or operating at the same time
 condescend
 behave in a patronizing manner
 condign
@@ -1818,8 +1808,6 @@ consecrate
 give entirely to a specific person, activity, or cause
 consensus
 agreement in the judgment reached by a group as a whole
-consequential
-having important effects or results
 conservatoire
 a schoolhouse with special facilities for fine arts
 conservatory
@@ -2082,10 +2070,6 @@ cursory
 hasty and without attention to detail; not thorough
 curtail
 terminate or abbreviate before its intended or proper end
-cynic
-someone who is critical of the motives of others
-cynicism
-something that provides guidance
 dabble
 bob under so as to feed off the bottom of a body of water
 dainty
@@ -2548,8 +2532,6 @@ disparity
 inequality or difference in some respect
 dispassionate
 unaffected by strong emotion or prejudice
-dispatch
-the act of sending off something
 dispel
 cause to separate and go in different directions
 dispense
@@ -3304,10 +3286,6 @@ fain
 having made preparations
 fallacious
 containing or based on incorrect reasoning
-fallacy
-a misconception resulting from incorrect reasoning
-fallible
-wanting in moral strength, courage, or will
 fallow
 left unplowed and unseeded during a growing season
 falter
@@ -3850,8 +3828,6 @@ gloss over
 treat hurriedly or avoid dealing with properly
 glossary
 an alphabetical list of technical terms in a field
-glossy
-reflecting light
 glower
 look angry or sullen as if to signal disapproval
 glut
@@ -4196,14 +4172,8 @@ humane
 marked by concern with the alleviation of suffering
 humanitarian
 marked by devotion to popular welfare
-humble
-marked by meekness or modesty; not arrogant or prideful
 humdrum
 tediously repetitious or lacking in variety
-humid
-containing or characterized by a great deal of water vapor
-humility
-a lack of arrogance or false pride
 hummock
 a small natural mound
 humus
@@ -4608,8 +4578,6 @@ inexorable
 impossible to prevent, resist, or stop
 inextricable
 incapable of being disentangled or untied
-infallible
-incapable of failure or error
 infamous
 known widely and usually unfavorably
 infantile
@@ -5602,8 +5570,6 @@ mnemonic
 of or relating to the practice of aiding the memory
 mobile
 moving or capable of moving readily
-mock
-treat with contempt
 modicum
 a small or moderate or token amount
 modish
@@ -6422,14 +6388,6 @@ perturb
 disturb in mind or make uneasy or cause to be worried
 perturbation
 the act of causing disorder
-perusal
-the act of examining or reading carefully
-peruse
-examine or consider with attention and in detail
-pervade
-spread or diffuse through
-pervasive
-spreading or spread throughout
 perverse
 deviating from what is considered moral or right or proper
 perversion
@@ -6660,8 +6618,6 @@ potpourri
 a collection containing a variety of sorts of things
 poultice
 a medical dressing spread on a cloth and applied to the skin
-practicable
-capable of being done with means at hand
 pragmatist
 an adherent of a theory of observable practical consequences
 prance
@@ -6992,8 +6948,6 @@ pulpit
 a platform raised to give prominence to the person on it
 pulsate
 expand and contract rhythmically
-pulse
-the rhythmic contraction and expansion of arteries
 pulverize
 make into a powder by breaking up or cause to become dust
 pummel
@@ -8266,10 +8220,6 @@ stench
 a distinctive odor that is offensively unpleasant
 stentorian
 very loud or booming
-stereotype
-a conventional or formulaic conception or image
-stereotyped
-lacking spontaneity or originality or individuality
 sterile
 incapable of reproducing
 stertorous
