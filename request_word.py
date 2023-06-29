@@ -115,11 +115,12 @@ def pop_word(words: list[WordEntry], open_v: bool, open: bool, delay: int):
 
 
 def main():
+    file_name = argv[1]
     open = any(arg == "--open" for arg in argv)
     open_v = any(arg == "--open-voca" for arg in argv)
     no_dep = any(arg == "--no-dep" for arg in argv)
     batch_size = get_get_batch_size(argv)
-    words = read_words("word_list.txt")
+    words = read_words(file_name)
     words = select_words(words, no_dep)
     delay = get_delay(argv)
     while 1:
