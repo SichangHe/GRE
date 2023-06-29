@@ -75,6 +75,31 @@ def batch_words(
         last_selected = pop_word(select_this_round, open_v, open, delay)
 
 
+def maybe_replace(
+    words: list[WordEntry],
+    select_from: list[tuple[WordEntry, float]],
+    index: int,
+    word: WordEntry,
+    probability: float,
+):
+    select_from[index] = (
+        (word, probability / 1.5) if random() < probability else (choice(words), 1.5)
+    )
+
+
+def replace_loop(
+    words: list[WordEntry], batch_size: int, open_v: bool, open: bool, delay: int
+):
+    select_from = [(choice(words), 1.5) for _ in range(batch_size)]
+    last_selected = None
+    while 1:
+        select_this_round = [w for w, _ in select_from if w != last_selected]
+        last_selected = pop_word(select_this_round, open_v, open, delay)
+        for index, (word, probability) in enumerate(select_from):
+            if word == last_selected:
+                maybe_replace(words, select_from, index, word, probability)
+
+
 def open_dict(word: str):
     to_run = f"""osascript -e 'open location "dict://{word}"'"""
     if system(to_run) != 0:
@@ -119,10 +144,14 @@ def main():
     open = any(arg == "--open" for arg in argv)
     open_v = any(arg == "--open-voca" for arg in argv)
     no_dep = any(arg == "--no-dep" for arg in argv)
+    replace = any(arg == "--replace" for arg in argv)
     batch_size = get_get_batch_size(argv)
     words = read_words(file_name)
     words = select_words(words, no_dep)
     delay = get_delay(argv)
+    if replace:
+        assert batch_size is not None
+        replace_loop(words, batch_size, open_v, open, delay)
     while 1:
         if batch_size is None:
             pop_word(words, open_v, open, delay)

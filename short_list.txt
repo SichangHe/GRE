@@ -290,7 +290,8 @@ expiate
 make amends for.
 fissure
 a long narrow depression in a surface.
-forbearance.
+forbearance
+patient self-control.
 goad
 provoke as by constant criticism.
 implacable
@@ -319,7 +320,6 @@ concoct
 devise or invent.
 contiguous
 having a common boundary or edge
-The only building in sight was a small block of yellow brick sitting on the edge of the waste land, a sort of compact Main Street ministering to it and contiguous to absolutely nothing.The Great Gatsby.
 discordant
 lacking in harmony.
 exigency
@@ -332,8 +332,6 @@ inert
 unable to move or resist motion.
 levity
 a manner lacking seriousness.
-pathology
-the branch of medical science that studies diseases.
 reparation
 something done or paid in expiation of a wrong.
 reprobate
@@ -576,8 +574,6 @@ miscellany
 a collection containing a variety of sorts of things.
 panegyric
 a formal expression of praise.
-paragon
-model of excellence or perfection of a kind.
 repine
 express discontent.
 satyr
@@ -916,8 +912,6 @@ behemoth
 someone or something that is abnormally large and powerful.
 captious
 tending to find and call attention to faults.
-disingenuous
-not straightforward or candid.
 doggerel
 a comic verse of irregular measure.
 effete
@@ -1256,8 +1250,6 @@ profound
 far-reaching and thoroughgoing in effect.
 specious
 plausible but false.
-terse
-brief and to the point.
 tacit
 implied by or inferred from actions or statements.
 zeal
@@ -1334,8 +1326,6 @@ iconoclast
 someone who attacks cherished ideas or institutions.
 malleable
 capable of being shaped or bent.
-misanthrope
-someone who dislikes people in general.
 profligate
 recklessly wasteful.
 pernicious
