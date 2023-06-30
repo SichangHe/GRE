@@ -166,8 +166,6 @@ adroit
 quick or skillful or adept in action or thought
 adulation
 exaggerated flattery or praise
-adulterate
-make impure by adding a foreign or inferior substance
 adulterated
 mixed with impurities
 adumbration
@@ -202,8 +200,6 @@ affidavit
 written declaration made under oath
 affiliation
 the act of becoming formally connected or joined
-affinity
-a natural attraction or feeling of kinship
 affirmation
 the act of asserting or stating something
 afflatus
@@ -220,8 +216,6 @@ agape
 with the mouth wide open as in wonder or awe
 agglomeration
 the act of collecting in a mass
-aggrandize
-embellish; increase the scope, power, or importance of
 aghast
 struck with fear, dread, or consternation
 agility
@@ -242,8 +236,6 @@ alacrity
 liveliness and eagerness
 albite
 a widely distributed feldspar that forms rocks
-alchemy
-a pseudoscientific forerunner of chemistry in medieval times
 alcove
 a small recess opening off a large room or garden
 alienate
@@ -252,20 +244,14 @@ alimentary
 of or providing nourishment
 alimony
 support paid by one spouse to another after separation
-allay
-lessen the intensity of or calm
 allege
 report or maintain
 allegiance
 the act of binding yourself to a course of action
 allegory
 a short moral story
-alleviate
-provide physical relief, as from pain
 alliteration
 use of the same consonant at the beginning of each word
-alloy
-a mixture containing two or more metallic elements
 allude
 make an indirect reference to
 allure
@@ -408,8 +394,6 @@ anticlimax
 a disappointing decline after a previous rise
 antidote
 a remedy that stops or controls the effects of a poison
-antipathy
-a feeling of intense dislike
 antiquated
 so extremely old as seeming to belong to an earlier period
 antique
@@ -426,12 +410,8 @@ anvil
 a heavy block on which hot metals are shaped by hammering
 apathetic
 showing little or no emotion or animation
-apathy
-an absence of emotion or enthusiasm
 aperture
 a natural opening in something
-apex
-the highest point of something
 aphasia
 inability to use language because of a brain lesion
 aphorism
@@ -470,10 +450,6 @@ appall
 strike with disgust or revulsion
 apparition
 a ghostly appearing figure
-appease
-make peace with
-appellation
-identifying words by which someone or something is called
 apposite
 being of striking appropriateness and pertinence
 appraise
@@ -486,8 +462,6 @@ apprise
 inform somebody of something
 approbation
 official acceptance or agreement
-appurtenance
-equipment consisting of miscellaneous articles
 appurtenance
 equipment consisting of miscellaneous articles
 apropos
@@ -512,8 +486,6 @@ arcane
 requiring secret or mysterious knowledge
 archaeology
 the branch of anthropology that studies prehistoric people
-archaic
-so extremely old as seeming to belong to an earlier period
 archetype
 something that serves as a model
 archipelago
@@ -558,8 +530,6 @@ artifice
 the use of deception or trickery
 artisan
 a skilled worker who practices some trade or handicraft
-artless
-simple and natural; without cunning or deceit
 ascendancy
 the state when one person or group has power over another
 ascertain
@@ -598,8 +568,6 @@ assent
 agree or express agreement
 asseverate
 state categorically
-assiduous
-marked by care and persistent effort
 assimilate
 make alike
 assuage
@@ -648,8 +616,6 @@ attrition
 the act of rubbing together
 atypical
 not representative of a group, class, or type
-audacious
-disposed to venture or take risks
 augment
 enlarge or increase
 augury
@@ -662,8 +628,6 @@ auroral
 characteristic of the dawn
 auscultation
 listening to sounds within the body with a stethoscope
-auspicious
-indicating favorable circumstances and good luck
 austere
 of a stern or strict bearing or demeanor
 austerity
@@ -738,8 +702,6 @@ balm
 preparation applied externally as a remedy or for soothing
 balmy
 mild and pleasant
-banal
-repeated too often; overfamiliar through overuse
 bandanna
 large and brightly colored handkerchief
 bandy
@@ -750,8 +712,6 @@ bantering
 cleverly amusing in tone
 barb
 a point facing the main point making an arrowhead or spear
-bard
-a lyric poet
 barefaced
 with no effort to conceal
 barrage
@@ -772,8 +732,6 @@ batten
 a strip fixed to something to hold it firm
 bauble
 cheap showy jewelry or ornament
-bawdy
-humorously vulgar
 beatific
 resembling or befitting an angel or saint
 beatitude
@@ -792,8 +750,6 @@ begrudge
 be envious of or feel annoyance toward
 beguile
 attract; cause to be enamored
-behemoth
-someone or something that is abnormally large and powerful
 beholden
 under a moral obligation to someone
 behoove
@@ -982,8 +938,6 @@ bourgeois
 being of the property-owning class
 bout
 a period of indeterminate length marked by some condition
-bovine
-any of various wild or domestic cattle
 bowdlerize
 edit by omitting or modifying parts considered indelicate
 brackish
@@ -1086,10 +1040,6 @@ buxom
 healthily plump and vigorous
 cabal
 a clique that seeks power usually through intrigue
-cacophonous
-having an unpleasant sound
-cacophony
-loud confusing disagreeable sounds
 cadaver
 the dead body of a human being
 cadaverous
@@ -1166,8 +1116,6 @@ capsize
 overturn accidentally
 caption
 brief description accompanying an illustration
-captious
-tending to find and call attention to faults
 carafe
 a bottle with a stopper
 carapace
@@ -1198,8 +1146,6 @@ carousal
 revelry in drinking; a merry drinking party
 carouse
 engage in boisterous, drunken merrymaking
-carping
-persistent petty and unjustified criticism
 carrion
 the dead and rotting body of an animal; unfit for human food
 carte blanche
@@ -1220,8 +1166,6 @@ castrate
 remove the testicles of a male animal
 casuistry
 argumentation that is specious or excessively subtle
-cataclysm
-a sudden violent change in the earth's surface
 catalyst
 substance that initiates or accelerates a chemical reaction
 catapult
@@ -1256,14 +1200,10 @@ cavalier
 showing a lack of concern or seriousness
 cavil
 raise trivial objections
-cavil
-raise trivial objections
 cede
 give over
 celerity
 a rate that is rapid
-celestial
-relating to or inhabiting a divine heaven
 celibate
 abstaining from sexual intercourse
 cemetery
@@ -1424,8 +1364,6 @@ clime
 the weather in some location averaged over a period of time
 clique
 an exclusive circle of people with a common purpose
-cloister
-residence that is a place of religious seclusion
 clot
 a lump of material formed from the content of a liquid
 clout
@@ -1542,12 +1480,6 @@ compensated
 receiving or eligible for compensation
 complacency
 the feeling you have when you are satisfied with yourself
-complacent
-contented to a fault with oneself or one's actions
-complaisance
-a tendency to try to please or yield to the will of others
-complaisant
-showing a cheerful willingness to do favors for others
 complementary
 serving to fill out, enhance, or supply what is lacking
 complicity
@@ -1650,8 +1582,6 @@ conjure
 summon into action or bring into existence
 connivance
 agreement on a secret plot
-connoisseur
-an expert able to appreciate a field
 connotation
 an idea that is implied or suggested
 connubial
@@ -1664,8 +1594,6 @@ consanguinity
 relation by blood
 conscientious
 characterized by extreme care and great effort
-conscript
-enroll into service compulsorily
 consecrate
 give entirely to a specific person, activity, or cause
 conservatoire
@@ -1738,8 +1666,6 @@ contumely
 rude language intended to offend or hurt
 contusion
 an injury in which the skin is not broken
-conundrum
-a difficult problem
 convene
 meet formally
 conversant
@@ -1748,16 +1674,12 @@ conveyance
 something that serves as a means of transportation
 conviction
 an unshakable belief in something without need for proof
-convivial
-occupied with or fond of the pleasures of good company
 convoke
 call together
 convulsion
 a violent uncontrollable contraction of muscles
 copious
 large in number or quantity
-coquette
-talk or behave amorously, without serious intentions
 cordial
 politely warm and friendly
 cordon
@@ -1778,8 +1700,6 @@ corpus
 a collection of writings
 corpuscle
 an unattached cell such as a red or white blood cell
-corroborate
-give evidence for
 corrode
 cause to deteriorate due to water, air, or an acid
 corrosive
@@ -1826,14 +1746,8 @@ crave
 have an appetite or great desire for
 craven
 lacking even the rudiments of courage; abjectly fearful
-credence
-the mental attitude that something is believable
-credo
-any system of principles or beliefs
 credulity
 tendency to believe readily
-credulous
-showing a lack of judgment or experience
 creed
 any system of principles or beliefs
 creep
@@ -1882,8 +1796,6 @@ cull
 remove something that has been rejected
 culmination
 a concluding action
-culpable
-deserving blame or censure as being wrong or injurious
 culprit
 someone or something responsible for harm or wrongdoing
 culvert
@@ -2008,8 +1920,6 @@ defection
 withdrawing support or help despite allegiance
 defer
 yield to another's wish or opinion
-deference
-courteous regard for people's feelings
 defiance
 a hostile challenge
 defile
@@ -2210,8 +2120,6 @@ diffidence
 lack of self-assurance
 dignitary
 an important or influential person
-digression
-a message that departs from the main subject
 digressive
 (of e.g. speech and writing) tending to depart from the main point or cover a wide range of subjects
 dilapidated
@@ -2274,8 +2182,6 @@ disconcert
 cause to lose one's composure
 disconsolate
 sad beyond comforting; incapable of being soothed
-discordant
-not in agreement or harmony
 discretion
 power of making choices unconstrained by external agencies
 discursive
@@ -2300,8 +2206,6 @@ dishearten
 take away the enthusiasm of
 disheveled
 in disarray; extremely disorderly
-disingenuous
-not straightforward or candid
 disinter
 dig up for reburial or for medical investigation
 disjunction
@@ -2338,8 +2242,6 @@ dissection
 the act of cutting so as to separate into pieces
 dissemble
 behave unnaturally or affectedly
-disseminate
-cause to become widely known
 dissension
 disagreement among those expected to cooperate
 dissent
@@ -2356,18 +2258,12 @@ dissolute
 unrestrained by convention or morality
 dissolution
 separation into component parts
-dissonance
-disagreeable sounds
 dissuade
 turn away from by persuasion
 dissuasion
 a communication that dissuades you
 distaff
 a stick on which wool or flax is wound before spinning
-distend
-cause to expand as if by internal pressure
-distill
-undergo condensation
 distinctive
 of a feature that helps to identify a person or thing
 distrait
@@ -2536,8 +2432,6 @@ effervescence
 the process of bubbling as gas escapes
 effete
 excessively self-indulgent, affected, or decadent
-efficacy
-capacity or power to produce a desired result
 effigy
 a representation of a person
 efflorescent
@@ -2556,8 +2450,6 @@ egoism
 concern for your own interests and welfare
 egotism
 an exaggerated opinion of your own importance
-egotistical
-having an inflated idea of one's own importance
 egregious
 conspicuously and outrageously bad or reprehensible
 egress
@@ -2574,8 +2466,6 @@ elation
 a feeling of joy and pride
 elegy
 a mournful poem; a lament for the dead
-elicit
-call forth, as an emotion, feeling, or response
 ellipsis
 a mark indicating that words have been omitted
 elliptical
@@ -2586,8 +2476,6 @@ eloquence
 powerful and effective language
 eloquent
 expressing yourself readily, clearly, effectively
-elucidate
-make clear and comprehensible
 elusive
 skillful at evading capture
 elysian
@@ -2608,8 +2496,6 @@ embark
 go on board
 embed
 fix or set securely or deeply
-embellish
-make more attractive, as by adding ornament or color
 emblazon
 decorate with heraldic arms
 embody
@@ -2664,8 +2550,6 @@ endear
 make attractive or lovable
 endearment
 the act of showing affection
-endemic
-native to or confined to a certain region
 endive
 widely cultivated herb with leaves valued as salad green
 endorse
@@ -2772,16 +2656,12 @@ equitable
 fair to all parties as dictated by reason and conscience
 equivocal
 open to two or more interpretations
-equivocate
-be deliberately ambiguous or unclear
 erode
 remove soil or rock
 errant
 straying from the right course or from accepted standards
 erratic
 liable to sudden unpredictable change
-erudite
-having or showing profound knowledge
 erudition
 profound scholarly knowledge
 escapade
@@ -2790,8 +2670,6 @@ eschew
 avoid and stay away from deliberately
 escutcheon
 a shield; especially one displaying a coat of arms
-esoteric
-understandable only by an enlightened inner circle
 espionage
 the systematic use of spies to obtain secrets
 espouse
@@ -2800,8 +2678,6 @@ esprit de corps
 the feeling that makes group members want to succeed
 esteem
 the condition of being honored
-estimable
-deserving of respect or high regard
 estranged
 caused to be unloved
 ethnology
@@ -2810,18 +2686,12 @@ eugenic
 causing improvement in the offspring produced
 eulogistic
 formally expressing praise
-eulogy
-a formal expression of praise for someone who has died
-euphemism
-an inoffensive expression substituted for an offensive one
 euphonious
 having a pleasant sound
 euphony
 any pleasing and harmonious sounds
 euphoria
 a feeling of great elation
-euthanasia
-the act of killing someone painlessly
 evanescent
 short-lived; tending to vanish or disappear
 evasive
@@ -2836,10 +2706,6 @@ ewe
 female sheep
 ewer
 an open vessel with a handle and a spout for pouring
-exacerbate
-make worse
-exacting
-severe and unremitting in making demands
 exaction
 act of demanding or levying by force or authority
 exalt
@@ -2860,8 +2726,6 @@ exclaim
 utter aloud, often with surprise, horror, or joy
 excoriate
 express strong disapproval of
-exculpate
-pronounce not guilty of criminal charges
 execrable
 unequivocally detestable
 execrate
@@ -2876,8 +2740,6 @@ exertion
 use of physical or mental energy; hard work
 exhilarating
 making lively and joyful
-exhort
-spur on or encourage especially by cheers and shouts
 exhume
 dig up for reburial or for medical investigation
 exigency
@@ -2932,8 +2794,6 @@ expurgate
 edit by omitting or modifying parts considered indelicate
 exquisite
 delicately beautiful
-extant
-still in existence; not extinct or destroyed or lost
 extemporaneous
 with little or no preparation or forethought
 extenuate
@@ -2972,8 +2832,6 @@ facetious
 cleverly amusing in tone
 facile
 arrived at without due care or effort; lacking depth
-facilitate
-make easier
 facsimile
 an exact copy or reproduction
 faction
@@ -3014,8 +2872,6 @@ fatalism
 a doctrine that all events are predetermined in advance
 fathom
 a linear unit of measurement for water depth
-fatuous
-devoid of intelligence
 faux pas
 a socially awkward or tactless act
 favoritism
@@ -3050,10 +2906,6 @@ ferocious
 marked by extreme and violent energy
 fervent
 characterized by intense emotion
-fervid
-characterized by intense emotion
-fervor
-feelings of great warmth and intensity
 fester
 generate pus
 fete
@@ -3100,8 +2952,6 @@ filth
 any substance considered disgustingly foul or unpleasant
 finery
 elaborate or showy attire and accessories
-finesse
-subtly skillful handling of a situation
 finicky
 fussy, especially about details
 firebrand
@@ -3148,8 +2998,6 @@ flit
 move along rapidly and lightly; skim or dart
 floe
 a flat mass of ice drifting at sea
-flora
-all the plant life in a particular region or period
 florid
 elaborately or excessively ornamented
 flotilla
@@ -3172,8 +3020,6 @@ flute
 a high-pitched woodwind instrument
 flutter
 flap the wings rapidly or fly with flapping movements
-flux
-a state of constant change
 fodder
 coarse food composed of plants or leaves and stalks
 foetid
@@ -3328,16 +3174,12 @@ fussy
 exacting especially about details
 fustian
 a strong cotton and linen fabric with a slight nap
-futile
-producing no result or effect
 gadfly
 any of various large flies that annoy livestock
 gaff
 an iron hook with a handle; used for landing large fish
 gaffe
 a socially awkward or tactless act
-gainsay
-take exception to
 gait
 an animal's manner of moving
 gale
@@ -3380,8 +3222,6 @@ garnish
 decorate, as with parsley or other ornamental foods
 garrulity
 the quality of being wordy and talkative
-garrulous
-full of trivial conversation
 gasconade
 an instance of boastful talk
 gastronomy
@@ -3526,8 +3366,6 @@ gratuity
 a small, extra gift of money for services rendered
 graze
 feed as in a meadow or pasture
-gregarious
-temperamentally seeking and enjoying the company of others
 grievance
 a complaint about a wrong that causes resentment
 grill
@@ -3602,8 +3440,6 @@ halcyon
 a mythical bird said to breed at the winter solstice
 halfhearted
 feeling or showing little interest or enthusiasm
-hallowed
-worthy of religious veneration
 hallucination
 illusory perception
 halting
@@ -3678,8 +3514,6 @@ hermitage
 the abode of a recluse
 herpetologist
 a scientist who studies reptiles and amphibians
-heterodox
-characterized by departure from accepted standards
 hew
 make or shape as with an axe
 hiatus
@@ -3706,8 +3540,6 @@ hireling
 a person who works only for money
 hirsute
 having or covered with hair
-histrionic
-overly dramatic or emotional
 hive
 a structure that provides a natural habitation for bees
 hoard
@@ -3780,8 +3612,6 @@ hustings
 the activities involved in political campaigning
 hydrophobia
 a morbid fear of water
-hyperbole
-extravagant exaggeration
 Hyperborean
 (Greek mythology) one of a people that the ancient Greeks believed lived in a warm and sunny land north of the source of the north wind
 hypercritical
@@ -3812,8 +3642,6 @@ idyllic
 charmingly simple and serene
 igneous
 produced by the action of fire or intense heat
-ignoble
-dishonorable in character or purpose
 ignominious
 deserving or bringing disgrace or shame
 ignominy
@@ -3870,8 +3698,6 @@ impeccable
 without error or flaw
 impecunious
 not having enough money to pay for necessities
-impede
-be a hindrance or obstacle to
 impediment
 something immaterial that interferes with action or progress
 impel
@@ -3890,16 +3716,12 @@ imperil
 pose a threat to; present a danger to
 imperious
 having or showing arrogant superiority
-impermeable
-preventing especially liquids to pass or diffuse through
 impersonal
 not relating to or responsive to individuals
 impertinent
 improperly forward or bold
 imperturbability
 calm and unruffled self-assurance
-imperturbable
-marked by extreme calm and composure
 impervious
 not admitting of passage or capable of being affected
 impetuous
@@ -4030,8 +3852,6 @@ incommodious
 uncomfortably or inconveniently small
 incongruity
 the quality of disagreeing
-incongruous
-lacking in harmony or compatibility or appropriateness
 inconsequential
 lacking worth or importance
 incontinent
@@ -4104,8 +3924,6 @@ indoctrinate
 teach uncritically
 indolence
 inactivity resulting from a dislike of work
-indolent
-disinclined to work or exertion
 indomitable
 impossible to subdue
 indubitable
@@ -4142,8 +3960,6 @@ inequity
 injustice by virtue of not conforming with standards
 inerrancy
 exemption from mistakes
-inert
-unable to move or resist motion
 inestimable
 beyond calculation or measure
 inexorable
@@ -4192,16 +4008,12 @@ inhibited
 held back or restrained or prevented
 inimical
 tending to obstruct or cause harm
-inimitable
-matchless
 iniquitous
 characterized by injustice or wickedness
 inkling
 a slight suggestion or vague understanding
 innate
 present at birth but not necessarily hereditary
-innocuous
-not injurious to physical or mental health
 innuendo
 an indirect and usually malicious implication
 inopportune
@@ -4222,14 +4034,10 @@ inscrutable
 difficult or impossible to understand
 insensate
 devoid of feeling and consciousness and animation
-insensible
-barely able to be perceived
 insidious
 working or spreading in a hidden and usually injurious way
 insightful
 exhibiting clear and deep perception
-insinuate
-suggest in an indirect or covert way; give to understand
 insipid
 lacking interest or significance or impact
 insolence
@@ -4270,8 +4078,6 @@ insurmountable
 not capable of being overcome
 insurrection
 organized opposition to authority
-intangible
-incapable of being perceived by the senses, especially touch
 integral
 existing as an essential constituent or characteristic
 integument
@@ -4282,8 +4088,6 @@ intelligentsia
 an educated elite
 inter
 place in a grave or tomb
-interdict
-command against
 interim
 the time between one event, process, or period and another
 interjection
@@ -4300,8 +4104,6 @@ interminable
 tiresomely long; seemingly without end
 intermittent
 stopping and starting at irregular intervals
-internecine
-within a group or organization
 interpolate
 insert words into texts, often falsifying it thereby
 interregnum
@@ -4312,8 +4114,6 @@ interstice
 small opening between things
 intervene
 be placed or located between other things
-intimate
-marked by close acquaintance, association, or familiarity
 intimidate
 compel or deter by or as if by threats
 intimidation
@@ -4334,10 +4134,6 @@ introspective
 given to examining own sensory and perceptual experiences
 introvert
 a person who tends to shrink from social contacts
-inundate
-fill or cover completely, usually with water
-inured
-made tough by habitual exposure
 invalid
 no longer legally acceptable
 invalidate
@@ -4416,8 +4212,6 @@ jargon
 technical terminology characteristic of a particular subject
 jaundice
 yellowing of the skin and the whites of the eyes
-jaundiced
-affected by yellowing of the skin
 jaunt
 a journey taken for pleasure
 jaunty
@@ -4440,8 +4234,6 @@ jingoism
 fanatical patriotism
 jingoist
 an extreme bellicose nationalist
-jocose
-characterized by jokes and good humor
 jocular
 characterized by jokes and good humor
 jocund
@@ -4468,8 +4260,6 @@ juncture
 the shape or manner in which things come together
 junket
 dessert made of sweetened milk coagulated with rennet
-junta
-a group of officers who rule a country after seizing power
 juridical
 of or relating to the law or jurisprudence
 jurisdiction
@@ -4514,8 +4304,6 @@ knoll
 a small natural mound
 knotty
 tangled in snarls
-labile
-liable to change
 labyrinth
 complex system of paths in which it is easy to get lost
 lace
@@ -4582,8 +4370,6 @@ lateral
 situated at or extending to the side
 latitude
 an imaginary line around the Earth parallel to the equator
-laud
-praise, glorify, or honor
 laudable
 worthy of high praise
 laudatory
@@ -4722,8 +4508,6 @@ lopsided
 having one side lower or smaller or lighter than the other
 loquacious
 full of trivial conversation
-loquacious
-full of trivial conversation
 lot
 anything (straws or pebbles etc.) taken or chosen at random
 lounge
@@ -4738,8 +4522,6 @@ lucent
 softly bright or radiant
 lucrative
 producing a sizeable profit
-lucre
-informal terms for money
 ludicrous
 inviting ridicule
 lugubrious
@@ -4752,8 +4534,6 @@ lumen
 a cavity or passage in a tubular organ
 luminary
 a celebrity who is an inspiration to others
-luminous
-softly bright or radiant
 lurid
 glaringly vivid and graphic; marked by sensationalism
 lurk
@@ -4778,10 +4558,6 @@ mace
 a ceremonial staff carried as a symbol of office
 macerate
 soften and cause to disintegrate as a result
-Machiavellian
-of or relating to amoral or conniving political principles
-machination
-a crafty and involved plot to achieve your ends
 maculate
 morally blemished; stained or impure
 madrigal
@@ -5018,18 +4794,12 @@ metrical
 relating to the rhythmic arrangement of syllables
 metropolis
 a large and densely populated urban area
-mettle
-the courage to carry on
 mews
 a street lined with dwellings that were originally stables
 miasma
 an unwholesome atmosphere
-microcosm
-a miniature model of something
 mien
 a person's appearance, manner, or demeanor
-milieu
-the environmental condition
 militant
 engaged in war
 militate
@@ -5054,8 +4824,6 @@ minion
 a servile or fawning dependent
 miniscule
 very small
-minuscule
-very small
 minute
 a unit of time equal to 60 seconds or 1/60th of an hour
 minutia
@@ -5068,12 +4836,8 @@ mirth
 great merriment
 misadventure
 an instance of misfortune
-misanthrope
-someone who dislikes people in general
 miscegenation
 marriage or reproduction by people of different races
-miscellany
-a collection containing a variety of sorts of things
 mischance
 an unpredictable outcome that is unfortunate
 mischief
@@ -5174,8 +4938,6 @@ morgue
 a building or room where dead bodies are kept before burial
 moribund
 being on the point of death
-morose
-showing a brooding ill humor
 mortar
 a vessel in which substances can be ground with a pestle
 mortician
@@ -5204,16 +4966,12 @@ mugwump
 a neutral or uncommitted person, especially in politics
 mulct
 money extracted as a penalty
-multifarious
-having many aspects
 multiform
 occurring in or having many shapes or appearances
 multilingual
 using or knowing more than one language
 multiplicity
 the property of having more than one part or entity
-mundane
-found in the ordinary course of events
 munificent
 very generous
 mural
@@ -5290,8 +5048,6 @@ negligible
 so small as to be meaningless; insignificant
 nemesis
 a personal foe or rival that cannot be easily defeated
-neologism
-a newly invented word or phrase
 neophyte
 a participant with no experience with an activity
 nepotism
@@ -5340,8 +5096,6 @@ noose
 a loop formed in a cord or rope by means of a slipknot
 nosegay
 an arrangement of flowers that is usually given as a present
-nostalgia
-a longing for something past
 nostrum
 patent medicine whose efficacy is questionable
 notch
@@ -5358,8 +5112,6 @@ noxious
 injurious to physical or mental health
 nubile
 (of young women) attractive and eligible to marry
-nugatory
-of no real value
 numismatist
 a collector and student of money, especially coins
 nuptial
@@ -5382,8 +5134,6 @@ obelisk
 a stone pillar tapering towards a pyramidal top
 obese
 excessively large
-obfuscate
-make obscure or unclear
 obituary
 a notice of someone's death
 objurgate
@@ -5608,8 +5358,6 @@ paddock
 a pen for horses
 padre
 a chaplain in one of the military services
-paean
-a hymn of praise
 painstaking
 characterized by extreme care and great effort
 palatable
@@ -5634,8 +5382,6 @@ palliate
 lessen or to try to lessen the seriousness or extent of
 palliation
 easing the severity of a pain without removing the cause
-pallid
-pale, as of a person's complexion
 palpable
 capable of being perceived
 palpitate
@@ -5666,8 +5412,6 @@ papyrus
 tall sedge of the Nile valley yielding fiber
 parable
 a short moral story
-paragon
-a perfect embodiment of a concept
 paramount
 more important than anything else; supreme
 paramour
@@ -5768,8 +5512,6 @@ pedagogy
 the profession of a teacher
 pedant
 a person who pays too much attention to formal rules
-pedantic
-marked by a narrow focus on or display of learning
 peddle
 sell or offer for sale from place to place
 pedestal
@@ -5862,8 +5604,6 @@ perjury
 criminal offense of making false statements under oath
 perk
 an incidental benefit awarded for certain types of employment (especially if it is regarded as a right)
-permeable
-allowing fluids or gases to pass or diffuse through
 permeate
 spread or diffuse through
 pernicious
@@ -6008,18 +5748,12 @@ placate
 cause to be more favorably inclined
 placebo
 an innocuous or inert medication
-placid
-calm and free from disturbance
-plaintive
-expressing sorrow
 plait
 a hairdo formed by braiding or twisting the hair
 plangent
 loud and resounding, often in a mournful way
 plaster
 a mixture of lime or gypsum with sand and water
-plasticity
-the property of being physically malleable
 platitude
 a trite or obvious remark
 platonic
@@ -6038,8 +5772,6 @@ plenipotentiary
 a diplomat with full powers to take action or make decisions
 plenitude
 a full supply
-plethora
-extreme excess
 pliable
 capable of being shaped or bent or drawn out
 pliant
@@ -6048,14 +5780,10 @@ plight
 a situation from which extrication is difficult
 plumage
 the covering of feathers on a bird
-plumb
-exactly vertical
 plumber
 a specialist who installs and repairs pipes
 plume
 the feather of a bird
-plummet
-drop sharply
 plutocracy
 a political system governed by the wealthy people
 podiatrist
@@ -6108,8 +5836,6 @@ portly
 fairly large
 pose
 assume a bearing as for artistic purposes
-poseur
-a person who habitually pretends to be something he is not
 posterity
 all future generations
 posthumous
@@ -6196,8 +5922,6 @@ premeditate
 consider, ponder, or plan beforehand
 premise
 a statement that is held to be true
-premonition
-an early warning about a future event
 premonitory
 warning of future misfortune
 preponderance
@@ -6224,8 +5948,6 @@ pretension
 the advancing of a claim
 pretentious
 creating an appearance of importance or distinction
-preternatural
-existing outside of or not in accordance with nature
 pretext
 a fictitious reason that conceals the real reason
 prevail
@@ -6252,8 +5974,6 @@ privy
 informed about something secret or not generally known
 probe
 an exploratory action or expedition
-probity
-complete and confirmed integrity
 proboscis
 a long flexible snout as of an elephant
 proclivity
@@ -6274,8 +5994,6 @@ profane
 grossly irreverent toward what is held to be sacred
 profligate
 unrestrained by convention or morality
-profound
-situated at or extending to great depth
 profuse
 produced or growing in extreme abundance
 profusion
@@ -6290,16 +6008,12 @@ prognosis
 a prediction of the course of a disease
 prognosticate
 make a prediction about; tell in advance
-prohibitive
-tending to discourage, especially of prices
 projectile
 a weapon that is forcibly propelled toward a target
 proletarian
 belonging to or characteristic of the working class
 proliferate
 grow rapidly
-prolific
-intellectually productive
 prolix
 tediously prolonged or tending to speak or write at length
 prolixity
@@ -6338,8 +6052,6 @@ proponent
 a person who argues for a cause or puts forward an idea
 propound
 put forward, as of an idea
-propriety
-correct behavior
 propulsive
 having the power to move forward with force
 prorogue
@@ -6454,8 +6166,6 @@ punctilious
 marked by precise accordance with details
 pundit
 an expert who publicly gives opinions via mass media
-pungent
-strong and sharp to the sense of taste or smell
 punitive
 inflicting punishment
 puny
@@ -6470,8 +6180,6 @@ purge
 rid of impurities
 purloin
 make off with belongings of others
-purport
-have the often misleading appearance of being or intending
 purport
 have the often misleading appearance of being or intending
 purse
@@ -6502,8 +6210,6 @@ quail
 a small game bird
 quaint
 attractively old-fashioned
-qualm
-uneasiness about the fitness of an action
 qualm
 uneasiness about the fitness of an action
 quandary
@@ -6556,8 +6262,6 @@ rabid
 marked by excessive enthusiasm for a cause or idea
 rabies
 an acute viral disease transmitted by animal bites
-raconteur
-a person skilled in telling anecdotes
 raffle
 a lottery in which the prizes are goods rather than money
 rag
@@ -6576,8 +6280,6 @@ ram
 an adult male sheep
 ramble
 move about aimlessly or without any destination
-ramification
-a consequence, especially one that causes complications
 ramify
 have or develop complicating consequences
 ramp
@@ -6608,8 +6310,6 @@ rapt
 feeling great delight and interest
 rapture
 a state of being carried away by overwhelming emotion
-rarefied
-of high moral or intellectual value
 rarefy
 lessen the density or solidity of
 rasp
@@ -6712,8 +6412,6 @@ recusant
 someone who refuses to conform to standards of conduct
 redolent
 having a strong pleasant odor
-redoubtable
-inspiring fear
 redress
 make reparations or amends for
 reek
@@ -6732,8 +6430,6 @@ refulgent
 radiating or as if radiating light
 refutation
 the act of determining that something is false
-refute
-overthrow by argument, evidence, or proof
 regal
 belonging to or befitting a supreme ruler
 regale
@@ -6794,8 +6490,6 @@ remittance
 a payment of money sent to a person in another place
 remnant
 a small part remaining after the main part no longer exists
-remonstrate
-argue in protest or opposition
 remorse
 a feeling of deep regret, usually for some misdeed
 remunerative
@@ -6864,8 +6558,6 @@ reprise
 a repetition of a short musical passage
 reproach
 express criticism towards
-reprobate
-a person without moral scruples
 reprobation
 severe disapproval
 reprove
@@ -6986,8 +6678,6 @@ rhapsodize
 say with great enthusiasm
 rhapsody
 a state of elated bliss
-rhetoric
-study of the technique for using language effectively
 rheumy
 watery and red, as of the eyes
 ribald
@@ -7058,8 +6748,6 @@ rubric
 category name
 ruddy
 inclined to a healthy reddish color
-rue
-feel sorry for; be contrite about
 rueful
 feeling or expressing pain or sorrow
 ruffian
@@ -7068,8 +6756,6 @@ rumble
 utter or emit low, dull, resonant sounds
 ruminant
 cud-chewing hoofed mammal with a stomach with compartments
-ruminate
-reflect deeply on a subject
 rummage
 search haphazardly
 runic
@@ -7152,8 +6838,6 @@ satrap
 a governor of a province in ancient Persia
 saturnine
 bitter or scornful
-satyr
-one of a class of woodland deities
 saunter
 walk leisurely and with no apparent aim
 savant
@@ -7182,8 +6866,6 @@ scavenger
 someone who collects things discarded by others
 scenario
 a postulated sequence of possible events
-schematic
-represented in simplified or symbolic form
 scheme
 an elaborate and systematic plan of action
 schism
@@ -7248,8 +6930,6 @@ secession
 formal separation from an alliance or federation
 seclusion
 the act of isolating oneself from others
-secrete
-generate and separate from cells or bodily fluids
 sect
 a subdivision of a larger religious group
 sectarian
@@ -7274,8 +6954,6 @@ seethe
 foam as if boiling
 seine
 a large fishnet that hangs vertically
-seismic
-subject to or caused by an earthquake or earth vibration
 selective
 characterized by very careful or fastidious choice
 self-indulgence
@@ -7294,10 +6972,6 @@ senility
 the state of being infirm with age
 sensitization
 the process of becoming highly responsive to situations
-sensual
-marked by the appetites and passions of the body
-sensuous
-providing perceptible pleasure or gratification
 sententious
 concise and full of meaning
 sentient
@@ -7326,8 +7000,6 @@ serrated
 notched like a saw with teeth pointing toward the apex
 serried
 pressed together
-servile
-submissive or fawning in attitude or behavior
 servitude
 the state of being required to labor for someone else
 sever
@@ -7336,8 +7008,6 @@ severance
 the act of cutting
 severity
 excessive sternness
-sextant
-an instrument for measuring angular distance
 shack
 small crude shelter used as a dwelling
 shackle
@@ -7394,8 +7064,6 @@ sift
 move as if through a sieve
 silt
 mud or clay or small rocks deposited by a river or lake
-simian
-relating to or resembling an ape or a monkey
 simile
 a figure of speech expressing a resemblance between things
 similitude
@@ -7408,8 +7076,6 @@ sinewy
 consisting of tendons or resembling a tendon
 sinister
 wicked, evil, or dishonorable
-sinuous
-curved or curving in and out
 siren
 a warning signal that is a loud wailing sound
 sirocco
@@ -7520,10 +7186,6 @@ solitude
 a state of social isolation
 soluble
 capable of being dissolved in some solvent
-solvent
-capable of meeting financial obligations
-somatic
-characteristic of the body as opposed to the mind or spirit
 somber
 serious and gloomy in character
 somnambulist
@@ -7578,12 +7240,8 @@ spatula
 a hand tool with a thin flexible blade
 spawn
 the mass of eggs deposited by fish or amphibians or mollusks
-specious
-plausible but false
 spectral
 resembling or characteristic of a phantom
-spendthrift
-someone who spends money freely or wastefully
 spin
 revolve quickly and repeatedly around one's own axis
 splenetic
@@ -7652,8 +7310,6 @@ stamp
 walk heavily
 stampede
 a wild headlong rush of frightened animals
-stanch
-stop the flow of a liquid
 standstill
 a situation in which no progress can be made
 stanza
@@ -7682,8 +7338,6 @@ stickler
 someone who insists on something
 stifle
 impair the respiration of or obstruct the air passage of
-stigma
-a symbol of disgrace or infamy
 stigmatize
 condemn or openly brand as disgraceful
 stilted
@@ -7762,16 +7416,10 @@ subsidy
 a grant of financial assistance, especially by a government
 subsistence
 a means of surviving
-substantiate
-establish or strengthen as with new evidence or facts
-substantive
-having a firm basis in reality and therefore important
 subterfuge
 something intended to misrepresent the nature of an activity
 subversive
 in opposition to an established system or government
-succinct
-briefly giving the gist of something
 succor
 assistance in time of difficulty
 succulent
@@ -7792,8 +7440,6 @@ sumptuous
 rich and superior in quality
 sunder
 break apart or in two, using violence
-sundry
-consisting of a haphazard assortment of different kinds
 superannuated
 too old to be useful
 supercilious
@@ -7818,8 +7464,6 @@ supplant
 take the place or move into the position of
 supple
 moving and bending with ease
-suppliant
-humbly entreating
 supplicate
 ask for humbly or earnestly, as in prayer
 supposititious
@@ -7884,8 +7528,6 @@ taut
 pulled or drawn tight
 tautological
 characterized by unnecessary repetition
-tautology
-useless repetition
 tawdry
 tastelessly showy
 tedium
@@ -7978,14 +7620,10 @@ titillate
 excite pleasurably or erotically
 titular
 existing in name only
-toady
-a person who tries to please someone to gain an advantage
 tocsin
 the sound of an alarm (usually a bell)
 toga
 a one-piece cloak worn by men in ancient Rome
-tome
-a large and scholarly book
 tonsure
 shaving the crown of the head by priests or monks
 topography
@@ -7996,8 +7634,6 @@ torso
 the body excluding the head and neck and limbs
 tortilla
 thin unleavened pancake made from cornmeal or wheat flour
-tortuous
-marked by repeated turns and bends
 touchstone
 a basis for comparison
 touchy
@@ -8008,8 +7644,6 @@ toxic
 of or relating to or caused by a poison
 tract
 an extended area of land
-tractable
-easily managed
 traduce
 speak unfavorably about
 tranquillity
@@ -8038,14 +7672,10 @@ travesty
 a composition that imitates or misrepresents a style
 treacle
 a syrup made of sugar cane
-treatise
-a formal text that treats a particular topic systematically
 trek
 any long and difficult trip
 tremor
 an involuntary vibration, as if from illness or fear
-tremulous
-quivering as from weakness or fear
 trenchant
 having keenness and forcefulness and penetration in thought
 trencherman
@@ -8078,8 +7708,6 @@ trumpery
 ornamental objects of no great value
 truncate
 make shorter as if by cutting off
-tryst
-a secret rendezvous, especially a romantic one
 tumbrel
 a farm dumpcart for carrying dung
 tumid
@@ -8174,20 +7802,14 @@ unwonted
 out of the ordinary
 upbraid
 express criticism towards
-urbane
-showing a high degree of refinement
 ursine
 of or relating to or similar to bears
 usufruct
 a legal right to use and profit from someone else's property
 usurpation
 wrongfully seizing and holding by force
-usury
-the act of lending money at an exorbitant rate of interest
 uxorious
 foolishly fond of or submissive to your wife
-vacillate
-be undecided about something
 vacillation
 indecision in speech or action
 vacuous
@@ -8198,8 +7820,6 @@ vainglorious
 feeling self-importance
 valance
 a decorative framework at the top of a window casing
-valedictory
-a farewell oration
 valetudinarian
 weak or sickly person especially one morbidly concerned with his or her health
 vanguard
@@ -8264,8 +7884,6 @@ vertex
 the highest point of something
 vertiginous
 having or causing a whirling sensation; liable to falling
-vertigo
-a reeling sensation; a feeling that you are about to fall
 vestige
 an indication that something has been present
 vexation
@@ -8280,8 +7898,6 @@ vicissitude
 a variation in circumstances or fortune
 victuals
 a source of materials to nourish the body
-vie
-compete for something
 vie
 compete for something
 vigilance
@@ -8300,16 +7916,10 @@ virago
 a noisy or scolding or domineering woman
 virile
 characteristic of a man
-virtuoso
-someone who is dazzlingly skilled in any field
 virulent
 extremely poisonous or injurious; producing venom
-visage
-the human face
 viscid
 having the sticky properties of an adhesive
-viscous
-having a relatively high resistance to flow
 visionary
 a person with unusual powers of foresight
 vitiate
@@ -8324,18 +7934,10 @@ vituperative
 marked by harshly abusive criticism
 vivacious
 vigorous and animated
-vivisection
-the act of operating on living animals
 vociferous
 conspicuously and offensively loud
-vogue
-a current state of general acceptance and use
-volatile
-liable to lead to sudden change or violence
 volition
 the act of making a choice
-voluble
-marked by a ready flow of speech
 voracious
 devouring or craving food in great quantities
 votary
@@ -8410,10 +8012,6 @@ yore
 time long past
 zany
 ludicrous or foolish
-zeal
-a feeling of strong eagerness
-zealot
-a fervent and even militant proponent of something
 zealous
 marked by active interest and enthusiasm
 zenith
