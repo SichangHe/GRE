@@ -83,14 +83,14 @@ def maybe_replace(
     probability: float,
 ):
     select_from[index] = (
-        (word, probability / 1.5) if random() < probability else (choice(words), 1.5)
+        (word, probability / 2) if random() < probability else (choice(words), 2)
     )
 
 
 def replace_loop(
     words: list[WordEntry], batch_size: int, open_v: bool, open: bool, delay: int
 ):
-    select_from = [(choice(words), 1.5) for _ in range(batch_size)]
+    select_from = [(choice(words), 2) for _ in range(batch_size)]
     last_selected = None
     while 1:
         select_this_round = [w for w, _ in select_from if w != last_selected]
