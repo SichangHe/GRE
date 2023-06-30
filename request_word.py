@@ -101,7 +101,11 @@ def replace_loop(
 
 
 def open_dict(word: str):
-    to_run = f"""osascript -e 'open location "dict://{word}"'"""
+    to_run = f"""osascript -e 'open location "dict://{word}"'
+    sleep 0.3
+    osascript -e 'tell application "Dictionary"
+        activate
+    end tell'"""
     if system(to_run) != 0:
         print(to_run)
 

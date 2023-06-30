@@ -18,8 +18,6 @@ partisan
 a fervent and even militant proponent of something.
 precipitate
 bring about abruptly.
-suffrage
-a legal right to vote.
 venerate
 regard with feelings of respect and reverence.
 abate
@@ -88,8 +86,6 @@ supersede
 take the place or move into the position of.
 tout
 advertise in strongly positive terms.
-undulate
-move in a wavy pattern or with a rising and falling motion.
 abject
 of the most contemptible kind.
 arduous
@@ -218,8 +214,6 @@ presumptuous
 going beyond what is appropriate, permitted, or courteous.
 propitiate
 make peace with.
-proscribe
-command against.
 relegate
 assign to a lower position.
 soliloquy
@@ -244,8 +238,6 @@ invective
 abusive language used to express blame or censure.
 inveigh
 complain bitterly.
-irresolute
-uncertain how to act or proceed.
 maverick
 someone who exhibits independence in thought and action.
 perturbed
@@ -348,10 +340,6 @@ menagerie
 a collection of live animals for study or display.
 mendicant
 a pauper who lives by begging.
-officious
-intrusive in a meddling or offensive manner.
-oligarchy
-a political system governed by a few people.
 prate
 speak about unimportant matters rapidly and incessantly.
 qualm
@@ -620,8 +608,6 @@ abstemious
 marked by temperance in indulgence.
 ambivalent
 uncertain or unable to decide about what course to follow.
-doggerel
-a comic verse of irregular measure.
 effete
 excessively self-indulgent, affected, or decadent.
 fracas
@@ -642,8 +628,6 @@ saturnine
 showing a brooding ill humor.
 accrued
 periodically accumulated over time.
-antediluvian
-so extremely old as seeming to belong to an earlier period.
 bombastic
 ostentatiously lofty in style.
 boorish
@@ -768,8 +752,6 @@ sidereal
 of or relating to the stars or constellations.
 soporific
 inducing sleep.
-apogee
-a final climactic stage.
 contumacious
 willfully obstinate; stubbornly disobedient.
 hirsute
