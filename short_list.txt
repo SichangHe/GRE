@@ -46,16 +46,12 @@ covet
 wish, long, or crave for.
 fetter
 restrain with shackles.
-impute
-attribute or credit to.
 precept
 a rule of personal conduct.
 transgress
 act in disregard of laws, rules, contracts, or promisessinclined to work or exertion.
 cant
 lean or slope to one side.
-congenial
-suitable to your needs.
 covert
 secret or hidden.
 decorum
@@ -96,8 +92,6 @@ calumny
 an abusive attack on a person's character or good name.
 discomfit
 cause to lose one's composure.
-latent
-potentially existing but not presently evident or realized.
 peremptory
 putting an end to all debate or action.
 placate
@@ -120,8 +114,6 @@ bolster
 support and strengthen.
 capricious
 determined by chance or impulse rather than by necessity.
-craven
-lacking even the rudiments of courage; abjectly fearful.
 motley
 consisting of a haphazard assortment of different kinds.
 propensity
@@ -132,8 +124,6 @@ satiate
 fill to satisfaction.
 stolid
 having or revealing little emotion or sensibility.
-alacrity
-liveliness and eagerness.
 harangue
 address forcefully.
 malign
@@ -240,8 +230,6 @@ inveigh
 complain bitterly.
 maverick
 someone who exhibits independence in thought and action.
-perturbed
-thrown into a state of agitated confusion.
 prattle
 speak about unimportant matters rapidly and incessantly.
 talisman
@@ -278,16 +266,12 @@ discerning
 able to make or detect effects of great subtlety.
 fiat
 a legally binding command or decision.
-glib
-marked by lack of intellectual depth.
 incursion
 the act of entering some territory or domain.
 insipid
 lacking interest or significance or impact.
 interpolate
 insert words into texts, often falsifying it thereby.
-laconic
-the courage to carry on.
 obviate
 do away with.
 physiognomy
@@ -464,8 +448,6 @@ libertine
 unrestrained by convention or morality.
 punctilious
 marked by precise accordance with details.
-sedulous
-marked by care and persistent effort.
 tirade
 a speech of violent denunciation.
 unfeigned
@@ -500,8 +482,6 @@ abeyance
 temporary cessation or suspension.
 burgeon
 grow and flourish.
-concomitant
-following or accompanying as a consequence.
 cozen
 cheat or trick.
 dross
@@ -526,8 +506,6 @@ travesty
 a distorted, debased, or absurd imitation of something.
 ambrosia
 the food and drink of the gods.
-blandishment
-flattery intended to persuade.
 coagulate
 change from a liquid to a thickened or solid state.
 effervescent
@@ -566,12 +544,8 @@ prevaricate
 be deliberately ambiguous or unclear.
 recalcitrant
 stubbornly resistant to authority or control.
-sinecure
-a job that involves minimal duties.
 stratified
 arranged in a sequence of grades or ranks.
-supine
-apathetic or weak; offering no resistance.
 theocracy
 a political unit governed by a deity.
 vapid
@@ -636,8 +610,6 @@ bucolic
 idyllically rustic.
 denouement
 the outcome of a complex sequence of events.
-diatribe
-thunderous verbal attack.
 igneous
 produced by the action of fire or intense heat.
 impinge
@@ -664,8 +636,6 @@ militate
 have force or influence; bring about an effect or change.
 pellucid
 transparently clear; easily understandable.
-rococo
-having excessive asymmetrical ornamentation.
 stultify
 deprive of strength or efficiency; make useless or worthless.
 turgid
@@ -702,8 +672,6 @@ reprise
 repeat, renew, or resume some action.
 salubrious
 promoting health.
-Stygian
-dark and dismal as of the river in Hades.
 timbre
 the distinctive property of a complex sound.
 bacchanalian
@@ -810,8 +778,6 @@ beatification
 a formal declaration that someone is worthy of veneration.
 emollient
 having a softening or soothing effect especially to the skin.
-etiology
-the cause of a disease.
 ineluctable
 impossible to avoid or evade.
 insularity
@@ -838,8 +804,6 @@ exigent
 demanding immediate attention.
 homage
 respectful deference.
-laconic
-brief and to the point.
 obstinate
 marked by tenacious unwillingness to yield.
 polemical
@@ -894,8 +858,6 @@ evanescent
 short-lived; tending to vanish or disappear.
 florid
 elaborately or excessively ornamented.
-hackneyed
-repeated too often; overfamiliar through overuse.
 iconoclast
 someone who attacks cherished ideas or institutions.
 malleable
@@ -1022,14 +984,10 @@ engender
 call forth.
 edify
 make understand.
-fawn
-try to gain favor through flattery or deferential behavior.
 foment
 try to stir up.
 harangue
 address forcefully.
-ingenuous
-lacking in sophistication or worldliness.
 indignant
 angered at something unjust or wrong.
 inimical
@@ -1050,8 +1008,6 @@ stipulate
 make an express demand or provision in an agreement.
 tirade
 a speech of violent denunciation.
-diatribe
-thunderous verbal attack.
 didactic
 instructive, especially excessively.
 elegy
